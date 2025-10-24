@@ -1,2 +1,2 @@
 # Storm-Detection
-Training yolov8n model to identify storm from images collected from satellites
+Trained yolov8n model identifing storms from images collected from satellites
